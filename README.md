@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andriyjunior
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning architecture, patterns.
+- 💞️ I’m looking to collaborate on social useful projects
+- 📫 Instagram - andriyjunior, Telegram - andrii_oliinyk 
