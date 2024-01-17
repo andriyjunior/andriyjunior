@@ -2,4 +2,3 @@
 - 👀 I’m interested in snowboarding and guitar playing.
 - 🌱 I’m currently learning architecture, patterns.
 - 💞️ I’m looking to collaborate on social useful projects
-- 📫 Instagram - andriyjunior, Telegram - andrii_oliinyk 
